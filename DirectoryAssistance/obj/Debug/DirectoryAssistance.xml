@@ -1,0 +1,53 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+DirectoryAssistance
+</name>
+</assembly>
+<members>
+<member name="T:DirectoryAssistance.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:DirectoryAssistance.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:DirectoryAssistance.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:DirectoryAssistance.My.Resources.Resources.Employees">
+<summary>
+  Looks up a localized string similar to Washington,George,1234
+Adams,John,1357
+Jefferson,Thomas,1468
+Madison,James,1533
+Monroe,James,1678
+Adams,John Quincy,1744 
+Jackson,Andrew,1898
+Van Buren,Martin,1930
+Harrison,William Henry,2034
+Tyler,John,2143
+Polk,James Knox,2267 
+Taylor,Zachary,2376
+Fillmore,Millard,2411
+Pierce,Franklin,2590
+Buchanan,James,2643
+Lincoln,Abraham,2740
+Johnson,Andrew,2877
+Grant,Ulysses Simpson,2955
+Hayes,Rutherford Birchard,3021
+Garfield,James Abram,3182
+Arthur,Chester Alan,3299
+Cleveland,Grover,3367
+Harri [rest of string was truncated]&quot;;.
+</summary>
+</member>
+</members>
+</doc>

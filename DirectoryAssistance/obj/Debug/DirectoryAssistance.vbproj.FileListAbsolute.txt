@@ -1,0 +1,12 @@
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\bin\Debug\DirectoryAssistance.exe.config
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\bin\Debug\DirectoryAssistance.exe
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\bin\Debug\DirectoryAssistance.pdb
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\bin\Debug\DirectoryAssistance.xml
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\obj\Debug\DirectoryAssistance.vbprojAssemblyReference.cache
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\obj\Debug\DirectoryAssistance.Resources.resources
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\obj\Debug\DirectoryAssistance.vbproj.GenerateResource.cache
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\obj\Debug\DirectoryAssistance.vbproj.CoreCompileInputs.cache
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\obj\Debug\DirectoryAssistance.exe
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\obj\Debug\DirectoryAssistance.xml
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\obj\Debug\DirectoryAssistance.pdb
+C:\Users\Ray\source\repos\DirectoryAssistance\DirectoryAssistance\obj\Debug\DirectoryAssistance.Form1.resources
