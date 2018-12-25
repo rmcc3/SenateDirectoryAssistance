@@ -11,7 +11,7 @@ Visual Studio
 ## Running the program
 In Visual Studio, run the project.
 
-## Knwon Issues
+## Known Issues
 * Does not return more than one result if there is more than one match.
 
 ## Authors
