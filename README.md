@@ -5,7 +5,7 @@ The senate directory assistance is an application that allows you to search for 
 
 This project was built as part of a class project.
 
-### Prerequisites
+## Prerequisites
 Visual Studio
 
 ## Running the program
